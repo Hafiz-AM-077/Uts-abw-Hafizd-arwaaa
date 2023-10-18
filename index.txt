@@ -1,0 +1,62 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page Profile</title>
+    <link rel="stylesheet" href="/dist/output.css" />
+    <script></script>
+  </head>
+
+  <body>
+    <nav class="bg-blue-300 top-2 rounded-full m-5 p-5">
+      <span class="inline-block align-middle"
+        >Home | Download CV | Contact | About me</span
+      >
+    </nav>
+    <img
+      class="m-5 rounded-full"
+      src="images/23.jpg"
+      alt=""
+    /><br
+      ><h1 align="center">Hafizd Arwaa Marden</h1>
+      <h2 align="center">( Mahasiswa Universitas Teuku Umar )</h2></span
+    >
+
+    <nav align="center" class="bg-blue-300 rounded-full m-5">=</nav>
+<h2 align="center"class="m-5 font-semibold">Overview</h2>
+    <p align="center"class="m-5">
+      Hi, Saya adalah web developer saat ini sedang belajar HTML di petani Kode
+    </p>
+
+    <table
+      align="center"
+      class="border-separate border-spacing-2 border border-slate-500 my-11 p-11"
+    >
+      <thead class="align-middle">
+        <tr>
+          <th class="border border-slate-600">Skill</th>
+          <th class="border border-slate-600">Pengalaman</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="border border-slate-700">Html (expert)</td>
+          <td class="border border-slate-700">Pernah bekerja di....</td>
+        </tr>
+        <tr>
+          <td class="border border-slate-700">Css (Beginner)</td>
+          <td class="border border-slate-700">Menjadi Leader di komunitas</td>
+        </tr>
+        <tr>
+          <td class="border border-slate-700">Javascript (expert)</td>
+          <td class="border border-slate-700">Kontributor open source</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <a class="m-5 my-10" href="https://web.facebook.com/hafizd.arwa">facebook</a>
+
+    <nav align="center" class="bg-black rounded-full m-5">A</nav>
+  </body>
+  <footer align="center" class="">Copyright 2023 @Hafizd</footer>
+</html>
